@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PetShop</string>
+    <string name="title_activity_novo_cliente">NovoClienteActivity</string>
+</resources>
